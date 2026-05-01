@@ -1,0 +1,7 @@
+# Development
+.vscode/
+.DS_Store
+*.log
+
+# Vercel
+.vercel
